@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+python-multipart
+reportlab
+matplotlib
+plotly
+pillow
+numpy
+pandas
+tensorflow>=2.10
+requests
+websockets
+streamlit
+pyswip
